@@ -1,7 +1,7 @@
 # gre_prep_materials
 a repo for gre prep materials(only for private use)
 </br></br>
-### #Important notices
+### Important notices
 **1. This repo is for private and non-commercial purpose only!**</br>
 </br>
 **2. Materials included in this repo are gathered online, and I am not responsible for any mistakes in those materials.**</br>
