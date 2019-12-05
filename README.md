@@ -13,8 +13,8 @@ a repo for gre prep materials(only for private use)
 </br></br></br>
 
 ### Materials
-</br>
-Part 1: GRE vocabulary(gre3000 + xdf + magoosh)
-Part 2: Verbal Practices(reading250 + verbal1200)
-Part 3: awa(argument pool + issue pool + saving_my_gre_issue + model_essays)
-Part 4: math(math240 + math_review + math112)
+
+Part 1: GRE vocabulary(gre3000 + xdf + magoosh)</br>
+Part 2: Verbal Practices(reading250 + verbal1200)</br>
+Part 3: awa(argument pool + issue pool + saving_my_gre_issue + model_essays)</br>
+Part 4: math(math240 + math_review + math112)</br>
